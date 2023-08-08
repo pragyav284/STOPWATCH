@@ -3,9 +3,9 @@
 
 STOPWATCH (Made using HTML5 CSS3 and JavaScript)
 
-You can see the website live at: 
+You can see the website live at: https://pragyav284.github.io/stopwatch/
 
-Project demo video Link: 
+Project demo video Link: https://youtu.be/E20aiE6iYDw
 
 ABOUT THIS PROJECT-:
 
